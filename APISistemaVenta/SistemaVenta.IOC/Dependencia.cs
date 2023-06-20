@@ -10,6 +10,7 @@ using SistemaVenta.DAL.DBContext;
 
 using SistemaVenta.DAL.Repositorios.Contrato;
 using SistemaVenta.DAL.Repositorios;
+using SistemaVenta.Utility;
 
 namespace SistemaVenta.IOC
 {
@@ -26,6 +27,9 @@ namespace SistemaVenta.IOC
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepository>();
+
+            //Agrego la dependencias de la clase AutoMapperProfile donde estan los mapeos
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }
     }
 }

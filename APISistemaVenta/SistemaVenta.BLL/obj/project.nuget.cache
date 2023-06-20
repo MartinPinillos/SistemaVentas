@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SXq12omFpDsXSd0xlrMSozIYlnyXkys52qEKEh58adAp13f6mp+QiG+msdXtFAyXljebQnIquKiy/3Fuv0wgkA==",
+  "dgSpecHash": "seLPiZEOm0I55wf2mH0bsTbnxD0d/AwEvJlTo2uMXSBvKSzzsufiiRxiN4Kw7IUiEgglpt6JK3aWKHqmHJhqgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",

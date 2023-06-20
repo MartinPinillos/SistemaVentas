@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6g7pNxfoRU95L26BrsJBJnO5eIB2n+qQN4YdIqSmK97Tk2LJsEUUzbrSveCARPeBs43kMdIxOR2OReWOq9VZ5Q==",
+  "dgSpecHash": "O+NDVACHqLH7UmJiRYVEx5ArqL1gSpXAnT6BhbW+gcW0TYUfGOx96Wf8doWqG7Rw7qOM48DkwKtKSe+xVbsU7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+  "projectFilePath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

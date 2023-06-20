@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {}
+    "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dyqapaHbc3nTsHvgUM5cxlIY4mPb1gT/0a+BFu9uZDKpc+Jf420NyenlcNJBJPkMHKO+pfSXD8sGgIBEtTYovA==",
+  "dgSpecHash": "bAK5HoQG4MQM8SWHdXdFPPjmLbkVTSX5hGuF2UYdzavTWnsnIXhUfHjnmZMhg0RQ00Nkfb1YGJ8ArZ1FU9JNUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+  "projectFilePath": "C:\\Users\\Martin\\Desktop\\HOMEWORK\\Curso Angular y ASP.NET Core 7\\Proyecto\\SistemaVentas\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

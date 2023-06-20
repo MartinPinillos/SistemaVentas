@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta.DAL
-build_property.ProjectDir = C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.DAL\
+build_property.ProjectDir = C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\SistemaVentas\APISistemaVenta\SistemaVenta.DAL\

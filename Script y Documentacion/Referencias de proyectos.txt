@@ -1,0 +1,14 @@
+
+SistemaVenta.BLL: --> DAL & DTO & Model & Utility
+
+SistemaVenta.DAL: --> Model
+
+SistemaVenta.DTO
+
+SistemaVenta.IOC: --> BLL & DAL & Utility
+
+SistemaVenta.Model
+
+SistemaVenta.Utility
+
+SistemaVenta.API
