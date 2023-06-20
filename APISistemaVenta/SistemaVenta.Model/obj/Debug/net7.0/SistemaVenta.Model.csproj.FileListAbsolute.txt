@@ -1,0 +1,14 @@
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Martin\Desktop\HOMEWORK\Curso Angular y ASP.NET Core 7\Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
